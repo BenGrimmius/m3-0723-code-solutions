@@ -5,8 +5,11 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What is JSX?
+  Javascript XML or JSX is an extension to the javascript syntax that allows you to utilize component rendering. Makes it easier
+  to wright html in React
 
 - How does React use JSX to render components?
+  React looks at the JSX as HTML and uses curly braces to identify javascript expressions within the JSX.
 
 ## Notes
 
