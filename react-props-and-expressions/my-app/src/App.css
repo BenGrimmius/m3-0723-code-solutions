@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+button {
+  margin: 30px 5px;
+  font-size: 40px;
+}
