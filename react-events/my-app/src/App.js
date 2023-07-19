@@ -10,17 +10,17 @@ function App() {
     <div className="App">
       <CustomButton
         color="red"
-        text={'First Button!'}
+        text="First Button!"
         onCustomClick={() => handleCustomClick('Red button was clicked!')}
       />
       <CustomButton
         color="green"
-        text={'Second Button!'}
+        text="Second Button!"
         onCustomClick={() => handleCustomClick('Green button was clicked!')}
       />
       <CustomButton
         color="skyBlue"
-        text={'Third Button!'}
+        text="Third Button!"
         onCustomClick={() => handleCustomClick('Blue button was clicked!')}
       />
     </div>
